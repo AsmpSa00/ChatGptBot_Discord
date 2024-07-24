@@ -1,0 +1,2 @@
+discord_token = 'MTI2NTY1MDA2MjE3NjgxMzA4Nw.G1Iuib.9BuBQDUZAjAhRpyVFXSgqRJTlNVRcJjzLJX8Jo'
+openai_key = "sk-proj-rfb6CAZGf6JTkm7U139TT3BlbkFJNbv0G1tHAxwWIhMOvncB"
